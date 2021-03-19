@@ -1,0 +1,1 @@
+002_master_chef_can, append a point in "points.xyz" file to keep the size of points is 2621
